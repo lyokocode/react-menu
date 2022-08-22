@@ -2,4 +2,6 @@
 
 MacGuffin Menu App
 
-## React Project
+### demo
+https://aelita-macguffin-menu.netlify.app
+
