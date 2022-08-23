@@ -2,6 +2,6 @@
 
 MacGuffin Menu App
 
-### demo
+### demo:
 https://aelita-macguffin-menu.netlify.app
 
